@@ -1,4 +1,6 @@
 # OOP_CPP_example
 This code belong to NGUYEN_DINH_TIEN_ME1-02_K65_HUST.
-It's a OOP project that I made to manage students's information and teachers's information. Hope you enjoy it!
-
+Run file .sln to open the project.
+File change main.cpp for progaram test!
+Don't use it for your exam!
+Hope you enjoy it!
